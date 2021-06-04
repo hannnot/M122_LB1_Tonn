@@ -23,6 +23,7 @@ host = your.ftp.server.com <br>
 user = yourFTPusername<br>
 pwd = yourFTPpassword <br>
 <br>
+<b>WICHTIG:<br>Im `[GMAILCONFIG]` muss eine GMail Adresse angegeben werden</b><br>
 das config.ini file speichern Sie im Ordner des zuvor geclonten Projekts
 
 5. Überprüfen Sie Ihren Computer auf eine vorhandene Python installation in dem sie nachfolgenden Befehl in ein Windows Terminal eingeben:
