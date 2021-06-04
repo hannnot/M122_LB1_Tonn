@@ -8,22 +8,21 @@
 2. Erstellen Sie ein .pdf Dokument
 3. Clonen Sie das Projekt aus nachfolgendem Repo
     *   https://github.com/hannnot/M122_LB1_Tonn.git
-4. Erstellen Sie eine `config.ini` Datei mit folgenden Attributen: <br><br>
-<code>
-[EMAILFILE] <br>
-path = path_to_your_email_TXT_file/email.txt <br> <br>
+4. Erstellen Sie eine `config.ini` Datei mit folgenden Attributen: <br>
+[EMAILFILE]  
+path = path_to_your_email_TXT_file/email.txt
 [ATTACHMENTFILE] <br>
 path = path_to_your_PDF_attachment_file/attachment.pdf <br> <br>
 [OUTPUTFILE] <br>
 path = C:\Users\path_to_your_desired_output_location <br> <br>
 [GMAILCONFIG]<br>
-email = your@email.com<br>
+email = your@gmail.com<br>
 pwd = yourpassword <br> <br>
 [FTPCONFIG]<br>
 host = your.ftp.server.com <br>
 user = yourFTPusername<br>
 pwd = yourFTPpassword <br>
-</code> <br>
+<br>
 das config.ini file speichern Sie im Ordner des zuvor geclonten Projekts
 
 5. Überprüfen Sie Ihren Computer auf eine vorhandene Python installation in dem sie nachfolgenden Befehl in ein Windows Terminal eingeben:
